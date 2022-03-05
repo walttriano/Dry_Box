@@ -1,6 +1,8 @@
 # Dry Box
 Single Filament Spool Dry Box
 
+![Dry Box](/images/dry_box.jpg)
+
 ## BOM:
 ### Purchased Items:
     1. Container: Rubbermaid 21 Cup Container: https://bre.is/jJ7abqWf
@@ -11,3 +13,4 @@ Single Filament Spool Dry Box
     6. Screws and inserts, as required.  Sizes are all M3
     7. Tubing, 4mm OD x 2mm ID
   
+STL files for the roller base sides and rollers came from: https://www.thingiverse.com/thing:3988583
